@@ -95,7 +95,7 @@ function doPost (e) {
 
 ## 6. Input your web app URL
 
-Open the file named `index.html`. On line 12 replace `<SCRIPT URL>` with your script url:
+Open the file named `index.html`. On line 7 replace `<SCRIPT URL>` with your script url:
 
 ```js
 <form name="submit-to-google-sheet">
